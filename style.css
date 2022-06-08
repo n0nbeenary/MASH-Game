@@ -1,7 +1,7 @@
 /* Body styling */
 body {
   background: #022557;
-  color: #8534F1;
+  color: #A81E19;
   font-family: Luminari;
   font-size: 27px;
   font-weight: 300;
@@ -32,7 +32,7 @@ h1 {
   background: #F2AA0A;
   border: 3px solid #9B5E00;
   border-radius: 6px;
-  color: #A81E19;
+  color: #8534F1; 
   cursor: pointer; 
   display: block;
   font-size: 20px;
