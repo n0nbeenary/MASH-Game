@@ -1,7 +1,8 @@
 /* Body styling */
-body {
+body 
+{
   background: #022557;
-  color: #9B5E00;
+  color: #07A3D5;
   font-family: Luminari;
   font-size: 27px;
   font-weight: 300;
@@ -13,7 +14,8 @@ body {
 
 
 /* Heading Styles */
-h1 {
+h1 
+{
   font-size: 70px;
   color: #9B5E00;
   text-align: center;
@@ -21,14 +23,16 @@ h1 {
 
 
 /* Game Directions */
-.description {
+.description 
+{
   text-align: center;
   margin: 80px auto 40px;
 }
 
 
 /* Submit Button, Columns, Questions, and Inputs */
-.button-submit {
+.button-submit 
+{
   background: #F2AA0A;
   border: 3px solid #9B5E00;
   border-radius: 6px;
@@ -42,13 +46,15 @@ h1 {
   text-align: center; 
 }
 
-.bucket {
+.bucket 
+{
   display: inline-block;
   margin-bottom: 40px;
   width: 100%;
 }
 
-.choice-bucket {
+.choice-bucket 
+{
   display: inline-block;
   float: left;
   margin: 0;
@@ -57,13 +63,15 @@ h1 {
   text-align: center;
 }
 
-.choice-bucket label {
+.choice-bucket label 
+{
   font-size: 12px;
   line-height: 13px;
   margin: 15px 4%;
 }
 
-.choice-bucket input {
+.choice-bucket input 
+{
   border: 0;
   border-radius: 6px;
   color: #F2AA0A;
@@ -75,11 +83,13 @@ h1 {
   width: 92%;  
 }
 
-.choice-bucket label ~ input {
+.choice-bucket label ~ input 
+{
   margin-top: 0;
 }
 
-.highlight {
+.highlight 
+{
   font-size: 18px;
   line-height: 24px;
   margin-left: 30px;
@@ -89,31 +99,36 @@ h1 {
 
 
 /* Answer Div */
-#answers {
+#answers 
+{
   margin: 60px 0;
   background: #fff;
   border-radius: 6px;
-  color: #713e94;
+  color: #07A3D5;
   transition: 1s linear;
 }
 
-#answers p {
+#answers p 
+{
   max-width: 760px;
   margin: auto;
   padding: 20px 0;
 }
 
-#answers p span {
+#answers p span 
+{
   font-weight: bold;
 }
 
 
-.hide {
+.hide 
+{
   opacity: 0;
   height: 0;
 }
 
-.show {
+.show 
+{
   opacity: 1;
   height: 100%;
 }
