@@ -54,13 +54,13 @@ h1 {
   margin: 0;
   padding: 0;
   width: 33.333333%;
+  text-align: center;
 }
 
 .choice-bucket label {
   font-size: 12px;
   line-height: 13px;
   margin: 15px 4%;
-  text-align: center;
 }
 
 .choice-bucket input {
