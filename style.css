@@ -21,6 +21,12 @@ h1
   text-align: center;
 }
 
+.placeholder
+{
+  color: #5504A4;
+  font-size: 18px;
+}
+
 
 /* Game Directions */
 .description 
